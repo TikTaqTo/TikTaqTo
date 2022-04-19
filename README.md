@@ -5,10 +5,10 @@
 
 <h3 align="left">Свяжитесь со мной:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tiktaqto" target="blank "><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" tiktaqto" высота = "30" ширина = "40" /></a>
-<a href="https://stackoverflow.com/users/348349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/stack-overflow.svg" alt="348349" height="30" width="40" /></a>
-<a href="https://www .hackerrank.com/adai ejechan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/ icons/Social/hackerrank.svg" alt="adai ejechan" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@tiktaqto" target= "пусто"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@tiktaqto" height="30" width="40" /></а>
+<a href="https://linkedin.com/in/tiktaqto" target="blank "><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" tiktaqto" высота = "30" ширина = "30" /></a>
+<a href="https://stackoverflow.com/users/348349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/stack-overflow.svg" alt="348349" height="30" width="30" /></a>
+<a href="https://www .hackerrank.com/adai ejechan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/ icons/Social/hackerrank.svg" alt="adai ejechan" height="30" width="30" /></a>
+<a href="https://www.hackerearth.com/@tiktaqto" target= "пусто"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@tiktaqto" height="30" width="30" /></а>
 </p>
 
 <h3 align="left">Языки и инструменты:</h3>
