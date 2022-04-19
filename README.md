@@ -1,8 +1,6 @@
 <h1 align="center">Привет 👋, я TikTaqTo</h1>
 <h3 align="center">увлеченный Backend-разработчик из Казахстана</h3>
 
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=tiktaqto&label=Profile%20views&color=0e75b6&style=flat" alt="tiktaqto" /> </p>
-
 <p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiktaqto" alt="tiktaqto" /></a > </p>
 
 <h3 align="left">Свяжитесь со мной:</h3>
