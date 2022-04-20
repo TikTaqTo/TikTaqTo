@@ -9,7 +9,7 @@
 - 🔭 I am currently studying at STEP Computer Academy  
   
 
-- 🌱 I’m currently learning Docker and Kubernetes, ElasticSearch  
+- 🌱 I’m currently learning Docker, Kubernetes and ElasticSearch  
   
 
 - ❓ Ask me about anything related to C#, Asp.Net Core, .Net stack and related technologies  
