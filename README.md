@@ -6,10 +6,10 @@
 ### <div align="center">I'm Adai, a backend developer 👨‍💻. Started learning programming in 2018 🚀</div>  
   
 
-- 🔭 I am currently studying at STEP Computer Academy  
+- 🔭 I am currently working at Gulser Computers (Alser)
   
 
-- 🌱 I’m currently learning Docker, Kubernetes and ElasticSearch  
+- 🌱 I’m currently learning React 
   
 
 - ❓ Ask me about anything related to C#, Asp.Net Core, .Net stack and related technologies  
